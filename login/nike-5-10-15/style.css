@@ -686,3 +686,20 @@ margin-left: 10px;
   animation-duration: 1.5s;
 }
 /* gata */
+.img-run{
+  width: 100%;
+
+}
+.Shoe-btn{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  width: 110px;
+  height: 30px;
+
+  text-align: center;
+}
+.btn-shoe{
+  text-align: center;
+}
