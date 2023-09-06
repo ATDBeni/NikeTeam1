@@ -697,9 +697,20 @@ margin-left: 10px;
   border: none;
   width: 110px;
   height: 30px;
-
   text-align: center;
 }
 .btn-shoe{
+  text-align: center;
+}
+.btn-shop{
+  text-align: center;
+}
+.shop{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  width: 110px;
+  height: 30px;
   text-align: center;
 }
