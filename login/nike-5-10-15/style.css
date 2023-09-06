@@ -597,3 +597,18 @@ height: 30px;
   width: 110px;
   height: 25px;
 }
+.imgsir{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+
+}
+.nike1{
+  width: 300px;
+margin-left: 10px;
+}
+
+.textn1{
+  width: 300px;
+  margin-left: 15px;
+}
